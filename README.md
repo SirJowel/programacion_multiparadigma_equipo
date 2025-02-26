@@ -9,7 +9,7 @@
 
 ### **Integrantes del Equipo:**  
 - Joel Maldonado Canche #21100237 
-- Jose Julian Gonzalez Medrano
+- Jose Julian Gonzalez Medrano #21100215
 
 ---
 
