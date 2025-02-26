@@ -3,4 +3,4 @@ Escribir un programa que permita al usuario capturar su nombre completo e imprim
 
 nombreCompleto = input('Ingrese su nombre completo: ')
 nombreInverso = reversed(nombreCompleto.replace(' ',''))
-print(list(nombreInverso))
+print(','.join(nombreInverso))
